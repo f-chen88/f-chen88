@@ -27,5 +27,5 @@ This project focuses on the generation of handwritten digit images using f-GANs 
 - **Key Achievement**: Developed an effective f-GAN-based generator to produce high-quality handwritten digits, providing valuable insights into the effect of different divergences on generative models.
 
 
-### [Real Estate Price Prediction](https://github.com/FChen-Lab/real-estate-price-prediction-challenge)
+### [Real Estate Price Prediction](https://github.com/f-chen88/real-estate-price-prediction-challenge)
 This project focuses on predicting real estate prices using various property characteristics such as location, property type, size, and energy performance. The dataset consists of 40,000 listings and 27 features, and a robust regression model was built using **XGBoost** after extensive preprocessing and feature engineering.
