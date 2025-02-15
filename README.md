@@ -14,7 +14,7 @@ I am a student in **Artificial Intelligence and Organizational Sciences** at Par
 
 ## 📂 Projects
 
-### [Fraud Detection using Machine Learning](https://github.com/FChen-Lab/bnp-paribas-fraud-detection-challenge)
+### [Fraud Detection using Machine Learning](https://github.com/f-chen88/bnp-paribas-fraud-detection-challenge)
 This project focuses on detecting fraudulent transactions by analyzing financial transaction data. The model was developed using **Gradient Boosting** and **Random Forest** algorithms, with an emphasis on optimizing the **Precision-Recall AUC score** to handle class imbalance effectively. The approach involved rigorous feature engineering and model tuning to achieve superior performance.
 
 - **Technologies Used**: Python, Scikit-learn, XGBoost, Pandas
